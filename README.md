@@ -1,95 +1,87 @@
-# 👋 Bonjour, moi c'est Euriss Fanou !
+# 👋 Bonjour, je suis Fanou Euriss
 
-### 💻 Développeur Python & Web | Passionné par l'innovation numérique 🇧🇯
+### Développeur Web & Full-Stack | Entrepreneur numérique
 
-Je suis un développeur béninois passionné par la conception d'applications, le développement web et la création de solutions numériques utiles.
+Passionné par les technologies et l'innovation numérique, je conçois et développe des sites web, des applications et des solutions numériques adaptées aux besoins des utilisateurs.
 
-J'aime transformer les idées en projets concrets, apprendre de nouvelles technologies et relever des défis techniques.
-
-🌍 Basé à Cotonou, Bénin  
-💼 Fondateur de **EURISS WEB**  
-🚀 Toujours en train d'apprendre, de construire et d'innover.
+J'aime transformer les idées en projets concrets, en associant développement frontend, backend, gestion des bases de données et conception d'interfaces modernes.
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🚀 À propos de moi
 
-- 🔭 Je travaille sur des projets web et des applications numériques.
-- 🌱 Je développe principalement avec Python.
-- 💡 Je m'intéresse au développement logiciel, aux bases de données et aux technologies web.
-- 🎯 Mon objectif : concevoir des solutions modernes, utiles et accessibles.
-- 🤝 Ouvert aux collaborations et aux opportunités professionnelles.
+- 💻 Développeur web et logiciel.
+- 🌐 Développement frontend et backend.
+- 🗄️ Conception et gestion de bases de données.
+- 🎨 Intérêt pour le design UI/UX et les interfaces modernes.
+- 🛠️ Expérience en maintenance informatique et dépannage.
+- 💡 Entrepreneur dans le domaine du numérique.
+- 📍 Basé à Cotonou, Bénin.
+- 🎯 Ouvert aux opportunités de stage, d'emploi et de collaboration.
 
 ---
 
-## 🛠️ Technologies & outils
+## 🧰 Compétences techniques
 
-**Langages**
+**Langages de programmation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+HTML · CSS · JavaScript · Python · PHP · SQL
+
+**Frameworks et technologies**
+
+Django · React · Bootstrap · Tailwind CSS · WordPress
 
 **Bases de données**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+MySQL · PostgreSQL · Supabase
 
-**Outils & environnement**
+**Outils et plateformes**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+VS Code · Git · GitHub · WampServer · Vercel · Render
 
 ---
 
-## 🚀 Mes projets
+## 💼 Mes projets
 
-### 📱 TraceIMEI-BJ
-Plateforme hybride web/mobile dédiée à la traçabilité des téléphones volés au Bénin.
+### 🔎 TraceIMEI-BJ
+Une solution numérique dédiée à la traçabilité des téléphones volés et à la vérification des IMEI au Bénin.
 
-- Analyse et vérification des IMEI.
-- Technologies : Python, Flask, PostgreSQL.
-- Projet académique orienté sécurité numérique.
+🌐 [Découvrir le projet](https://traceimei-bj.vercel.app/)
 
-🔗 [Découvrir TraceIMEI-BJ](https://traceimei-bj.vercel.app/)
+### 📱 EURISS GSM
+Un site web professionnel dédié aux services de réparation de téléphones portables et d'ordinateurs.
 
-### 🔧 EURISS GSM
-Plateforme professionnelle de présentation des services de réparation de téléphones et d'assistance informatique.
+🌐 [Découvrir le projet](https://eurissgsm.vercel.app/)
 
-🔗 [Visiter EURISS GSM](https://eurissgsm.vercel.app/)
+### 🛍️ Aurore Capillaire
+Une plateforme e-commerce spécialisée dans la vente de produits de soins capillaires.
 
-### 🌿 Aurore Capillaire
-Projet e-commerce consacré aux produits et soins capillaires.
-
-🔗 [Visiter Aurore Capillaire](https://aurore-capillaire.vercel.app/)
+🌐 [Découvrir le projet](https://aurore-capillaire.vercel.app/)
 
 ---
 
-## 📊 Mon activité GitHub
+## 🎯 Domaines d'intervention
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euriss56&show_icons=true&theme=github_dark&hide_border=true&locale=fr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euriss56&layout=compact&theme=github_dark&hide_border=true&locale=fr)
-
----
-
-## 📫 Me contacter
-
-- 🌐 Portfolio : [EURISS WEB](https://eurissweb.vercel.app/)
-- 💼 GitHub : [@euriss56](https://github.com/euriss56)
-- 📧 Email : fanoueuriss@gmail.com
-- 💬 WhatsApp : [+229 01 41 67 57 84](https://wa.me/2290141675784)
+- Développement de sites web et d'applications.
+- Développement frontend et backend.
+- Conception et gestion de bases de données.
+- Création de plateformes e-commerce.
+- Développement de systèmes de gestion.
+- Conception d'interfaces utilisateur.
+- Déploiement et maintenance d'applications.
+- Maintenance et dépannage informatique.
 
 ---
 
-<div align="center">
+## 🤝 Me contacter
 
-### ✨ Transformer les idées en solutions numériques.
+Je suis ouvert aux collaborations, aux nouveaux projets et aux opportunités professionnelles.
 
-**Merci de visiter mon profil GitHub !**
+- 🌐 **Portfolio :** https://eurissweb.vercel.app/
+- 📧 **Email :** fanoueuriss@gmail.com
+- 💬 **WhatsApp :** +229 0141675784
+- 📍 **Localisation :** Cotonou, Bénin
 
-![Profile Views](https://komarev.com/ghpvc/?username=euriss56&color=2563eb&style=flat-square&label=Visiteurs+du+profil)
+---
 
-</div>
+**Concevoir. Développer. Innover. Donner vie aux idées.** 🚀
