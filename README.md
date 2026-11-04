@@ -1,20 +1,20 @@
 # 👋 Bonjour, moi c'est Fanou Euriss !
 
-<h3 align="center">Développeur Web & Full-Stack | Entrepreneur numérique</h3>
+<h3 align="center">Développeur Full-Stack · Développeur Web · Technicien informatique</h3>
 
 <p align="center">
   <b>Concevoir · Développer · Innover</b>
 </p>
 
 <p align="center">
-  Je transforme les idées en solutions numériques modernes, utiles et accessibles.
+  Je conçois des sites web, des applications et des solutions numériques utiles, modernes et adaptées aux besoins réels.
 </p>
 
 ---
 
 ## 🚀 Qui suis-je ?
 
-Je suis **Fanou Euriss**, développeur web et entrepreneur dans le domaine du numérique, basé à Cotonou au Bénin.
+Je suis **Fanou Euriss**, développeur web Full-Stack et technicien informatique basé à Cotonou, au Bénin. À travers **EURISS WEB**, je conçois et réalise des sites vitrines, des plateformes e-commerce et des applications métier.
 
 Passionné par les technologies et la création de solutions informatiques, je conçois des sites web, des applications et des plateformes numériques répondant à des besoins concrets.
 
@@ -25,8 +25,9 @@ Je m'intéresse particulièrement à la création de produits numériques fiable
 - 💻 Développement frontend et backend
 - 🌐 Création de sites web et d'applications
 - 🗄️ Conception et gestion de bases de données
-- 🎨 Design d'interfaces et expérience utilisateur
+- 🎨 Conception d'interfaces et expérience utilisateur
 - 🛒 Solutions e-commerce et systèmes de gestion
+- 🚀 Déploiement et mise en ligne d'applications
 - 🛠️ Maintenance et dépannage informatique
 - 📍 Cotonou, Bénin
 - 🎯 Ouvert aux stages, emplois et collaborations
@@ -41,6 +42,7 @@ Je m'intéresse particulièrement à la création de produits numériques fiable
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -50,6 +52,7 @@ Je m'intéresse particulièrement à la création de produits numériques fiable
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -78,13 +81,21 @@ Je m'intéresse particulièrement à la création de produits numériques fiable
 
 ## 🌟 Mes projets phares
 
+### 🎓 School Manager BJ
+
+Une plateforme de gestion scolaire conçue pour accompagner les établissements dans le suivi de leurs activités : élèves, classes, enseignants, notes, résultats et gestion administrative.
+
+**Objectif :** centraliser les opérations scolaires dans un outil numérique accessible et pratique.
+
+[🌐 Découvrir School Manager BJ](https://school-manager-bj.vercel.app/) · [💻 Dépôt GitHub](https://github.com/euriss56/school-manager-bj)
+
 ### 🔎 TraceIMEI-BJ
 
 Une plateforme numérique développée dans le cadre d'un projet académique, dédiée à la traçabilité des téléphones volés et à la vérification des IMEI au Bénin.
 
 **Objectif :** contribuer à la lutte contre le vol et la fraude liés aux téléphones mobiles.
 
-[🌐 Découvrir TraceIMEI-BJ](https://traceimei-bj.vercel.app/)
+[🌐 Découvrir TraceIMEI-BJ](https://traceimei-bj.vercel.app/) · [💻 Dépôt GitHub](https://github.com/euriss56/trace-benin-secure)
 
 ### 📱 EURISS GSM
 
@@ -92,7 +103,7 @@ Un site web professionnel présentant des services de réparation de téléphone
 
 **Objectif :** faciliter la présentation des services et la prise de contact avec les clients.
 
-[🌐 Découvrir EURISS GSM](https://eurissgsm.vercel.app/)
+[🌐 Découvrir EURISS GSM](https://eurissgsm.vercel.app/) · [💻 Dépôt GitHub](https://github.com/euriss56/eurissgsm)
 
 ### 🛍️ Aurore Capillaire
 
@@ -100,7 +111,7 @@ Une plateforme e-commerce consacrée aux produits de soins capillaires.
 
 **Objectif :** proposer une expérience de découverte et d'achat de produits en ligne.
 
-[🌐 Découvrir Aurore Capillaire](https://aurore-capillaire.vercel.app/)
+[🌐 Découvrir Aurore Capillaire](https://aurore-capillaire.vercel.app/) · [💻 Dépôt GitHub](https://github.com/euriss56/aurore-capillaire)
 
 ---
 
@@ -112,6 +123,7 @@ Une plateforme e-commerce consacrée aux produits de soins capillaires.
 | Frontend | Interfaces modernes et responsives |
 | Backend | Logique métier et fonctionnalités |
 | Bases de données | Conception, organisation et gestion |
+| Déploiement | Mise en ligne et suivi d'applications web |
 | E-commerce | Plateformes de vente en ligne |
 | Systèmes de gestion | Applications administratives et professionnelles |
 | Maintenance informatique | Diagnostic et dépannage |
